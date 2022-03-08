@@ -57,7 +57,7 @@ For more information, please refer to: [User-guide](https://github.com/tamerga/a
 ## Component Introduction
 
 ### Basic Components
-Including:Apiserver/scheduler/controller-manager/kubelet/kube-proxy/coredns/metrics-server/kubectl/kubeadm, etc.
+Including Kubernetes Kernel Services, coredns, metrics-server, kubectl, kubeadm, etc.
 
 ### Container during runtime
 Including docker, containerd, nvidia-docker, etc.
@@ -69,7 +69,7 @@ Including docker, containerd, nvidia-docker, etc.
 [hybridnet](https://github.com/alibaba/hybridnet)，support underlay and overlay, open source
 
 ### Local storage plugin
-[open-local](https://github.com/alibaba/open-local), Support local disk scheduling,open source
+[open-local](https://github.com/alibaba/open-local), Support local disk scheduling, open source
 
 ## Community
 Please refer to: [community](docs/community.md)
